@@ -1,2 +1,2 @@
-# new_project
+# Detection of vegetation in Baltic Sea
 
