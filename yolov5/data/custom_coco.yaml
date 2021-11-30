@@ -1,0 +1,7 @@
+
+train: /content/drive/MyDrive/Yolo/image_new/train
+val: /content/drive/MyDrive/Yolo/image_new/test
+
+nc: 3  # number of classes
+names: ['Fucus', 'Zostera marina', 'Furcellaria lubricalis']  # class names
+
