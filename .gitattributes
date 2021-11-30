@@ -1,0 +1,2 @@
+Task_3/* filter=lfs diff=lfs merge=lfs -text
+Task_3/** filter=lfs diff=lfs merge=lfs -text
