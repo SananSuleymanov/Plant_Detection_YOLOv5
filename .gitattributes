@@ -1,0 +1,2 @@
+image_new/* filter=lfs diff=lfs merge=lfs -text
+image_new/** filter=lfs diff=lfs merge=lfs -text
